@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+.variable{
+  margin-bottom: 20px;
+}
+#num1-el, #num2-el{
+  font-size: 3rem;
+  margin-right: 10px;
+  text-decoration: underline;
+}
+button{
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  margin-right: 8px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+button:active{
+  opacity: 0.4;
+}
+#sum-el{
+   font-size: 3rem;
+}
